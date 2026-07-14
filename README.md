@@ -1,8 +1,10 @@
 <div align="center">
 
-[![Harsh Mishra ASCII Portrait](portrait.svg)](https://github.com/harshmishra-1702)
+<a href="https://github.com/harshmishra-1702">
+  <img src="portrait.svg" alt="Harsh Mishra ASCII Portrait" width="340">
+</a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Harsh+Mishra;AI%2Data+Trainer+%7C+RAG+%26+Agentic+AI+Builder;AI+Core+Contributor+%40+DataAnnotation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Harsh+Mishra;AI%2FML+Engineer+%7C+RAG+%26+Agentic+AI+Builder;AI+Core+Contributor+%40+DataAnnotation)
 
 </div>
 
@@ -51,7 +53,7 @@ $ echo $STATUS
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=py,cpp,java,ts,js,html,css,sql,flask,git,figma,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=py,cpp,java,ts,js,html,css,sql,pytorch,flask,fastapi,react,git,figma,vscode&theme=dark)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshmishra1702)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshmishra-1702)
