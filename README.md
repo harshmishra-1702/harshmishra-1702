@@ -4,7 +4,7 @@
   <img src="portrait.svg" alt="Harsh Mishra ASCII Portrait" width="340">
 </a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Harsh+Mishra;AI%2Data+Trainer+%7C+RAG+%26+Agentic+AI+Builder;AI+Core+Contributor+%40+DataAnnotation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Harsh+Mishra;AI%2_Data+Trainer+%7C+RAG+%26+Agentic+AI+Builder;AI+Core+Contributor+%40+DataAnnotation)
 
 </div>
 
