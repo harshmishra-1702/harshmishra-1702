@@ -1,9 +1,8 @@
 <div align="center">
 
-[![Harsh Mishra ASCII Portrait](dark.svg#gh-dark-mode-only)](https://github.com/harshmishra-1702)
-[![Harsh Mishra ASCII Portrait](light.svg#gh-light-mode-only)](https://github.com/harshmishra-1702)
+[![Harsh Mishra ASCII Portrait](portrait.svg)](https://github.com/harshmishra-1702)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Harsh+Mishra;AI%2FML+Engineer+%7C+RAG+%26+Agentic+AI+Builder;AI+Core+Contributor+%40+DataAnnotation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Harsh+Mishra;AI%2Data+Trainer+%7C+RAG+%26+Agentic+AI+Builder;AI+Core+Contributor+%40+DataAnnotation)
 
 </div>
 
